@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: burlywood;
+}
+
+div {
+  font-size: 1.5em;
+}
+
+.instructions p {
+  display: inline-flex;
+  margin: 0;
+  padding: 0 5px;
+  font-weight: 700;
+}
